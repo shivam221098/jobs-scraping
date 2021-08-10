@@ -1,0 +1,3 @@
+search your resumes class === Select-placeholder
+
+click on resume class === Select-menu-outer
